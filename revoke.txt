@@ -1,3 +1,2 @@
 # HesiVip revoke list (author maintained)
 # one 16-hex machine code per line; "ALL" revokes every machine
-1C9E71431FF14990
